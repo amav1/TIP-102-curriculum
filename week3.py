@@ -95,6 +95,8 @@ Session 2 standard set version 1
 
 ###Problem 4: Festival Booth Navigation
 
+I chose this problem because it's good to reinforce stack fundamentals, especially when it's such an important data structure and could be confusing for some students initially.
+
 #Understand
 How does the "back" instruction affect the sequence of visited booths?
 Which data structure is suitable for tracking the current sequence of visited booths where the most recent visit is the one to "backtrack" from?
@@ -135,6 +137,8 @@ def booth_navigation(clues):
 
     
 ###Problem 5: Merge Performance Schedules
+
+I chose this problem because it’s a natural use case for two-pointer merging. This could also be a tricky concept for students.
 
 #Understand
 What is the core merging logic?
@@ -184,6 +188,8 @@ def merge_schedules(schedule1, schedule2):
 
 
 ###Problem 6: Next Greater Event
+
+I chose this problem because it introduces map-based indexing and forward searching in arrays. This could be a good example for students to practice using the enumerate function!
 
 #Understand
 What defines the "Next Greater Event"?
